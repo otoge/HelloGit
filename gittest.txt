@@ -2,3 +2,4 @@ hello git!
 edit test!
 branch test!
 add in android.
+quickedit.
